@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ArturDV
 - :email: Telegram: @ArturDia
+- :email: Mail: artur.dv.main@yandex.ru
 - 👀 I’m interested in coding...
 
 ---
