@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ArturDV
+- :email: Telegram: @ArturDia
 - 👀 I’m interested in coding...
 
 ---
