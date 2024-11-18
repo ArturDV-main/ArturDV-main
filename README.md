@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @dandyelf
+- 👋 Hi, I’m @ArturDV
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning C lang...
+
 ---
 
-##  Навыки
+##  Навыки 🌱
 
 - #### Hard skills: 
   + *JavaScript, HTML, CSS, C/C++*
