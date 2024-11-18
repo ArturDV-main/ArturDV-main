@@ -6,11 +6,10 @@
 ##  Навыки 🌱
 
 - #### Hard skills: 
-  + *JavaScript, HTML, CSS, C/C++*
+  + *Golang, C/C++*
   + GitLab/GitHub, CI/CD
-  + Node.js, PostgreSQL, Sequelize
-  + Bootstrap, Postman, React
-  + Linux, bash/zsh, npm, Docker, QT
+  + PostgreSQL
+  + Linux, bash/zsh, Docker, QT
 
 
 - #### Soft skills: 
@@ -22,6 +21,7 @@
     + Стремление к знаниям и саморазвитию
 
 ## 📚 Обучение
+###  Высшее техническое (Бакалавр) КНИТУ-КАИ
 ###  Студент [21 School](https://21-school.ru) (образовательный проект от Cбера)
 <br>
 
